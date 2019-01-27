@@ -1,0 +1,59 @@
+div{
+    margin-bottom: 30px;
+}
+.suoyou{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid blue;
+    border-right: 30px solid yellow;
+    border-bottom: 30px solid green;
+    border-left: 30px solid red;
+}
+.shang{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid blue;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 30px solid transparent; 
+}
+.zuo{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 30px solid red; 
+}
+.you{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid transparent;
+    border-right: 30px solid yellow;
+    border-bottom: 30px solid transparent;
+    border-left: 30px solid transparent; 
+}
+.xia{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid green;
+    border-left: 30px solid transparent; 
+}
+.zuoxia{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid red;
+    border-left: 30px solid red; 
+}
+.youxia{
+    width: 0px;
+    height: 0px;
+    border-top: 30px solid transparent;
+    border-right: 30px solid green;
+    border-bottom: 30px solid green;
+    border-left: 30px solid transparent; 
+}
