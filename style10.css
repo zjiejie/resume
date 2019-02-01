@@ -1,0 +1,30 @@
+li{
+    list-style: none;
+}
+.box{
+    width: 800px;
+    margin: 0 auto;
+}
+.title{
+    color: #666;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.h-card{
+    width: 260px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)!important;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.h-card>img {
+    width: 100%;
+    opacity: 0.75;
+}
+.h-card.first{
+    margin-left: 0px;
+} 
+.h-card p{
+    text-align: center;
+}
