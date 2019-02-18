@@ -1,0 +1,9 @@
+body {
+    background: gray;
+}
+.red {
+    width: 300px;
+    height: 200px;
+    background: red;
+    margin: 0 auto;
+}

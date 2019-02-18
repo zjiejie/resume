@@ -1,0 +1,18 @@
+.red {
+    background: red;
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+.blue {
+    background: blue;
+    width: 200px;
+    height: 600px;
+    float: right;
+}
+.pink {
+    background: pink;
+    height: 800px;
+    margin: 0px 210px;
+}
+

@@ -1,0 +1,17 @@
+body {
+    background: gray;
+}
+button {
+    background: red;
+    border-radius: 3px;
+    border: none;
+    margin: 0 auto;
+    color: white;
+    padding: 5px;
+}
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
